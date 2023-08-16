@@ -1,6 +1,6 @@
 📊 Sharing my latest data analysis project that addresses a critical challenge faced by HR departments! 📈📊
 
-Problem: The lack of clear performance indicators for tracking and analyzing key HR metrics was hindering effective workforce management. 📉
+Problem: The lack of clear performance indicators for tracking and analyzing key HR metrics was hindering effective workforce management. 
 
 Solution: I designed a comprehensive set of KPIs using Power BI and PostgreSQL, providing actionable insights into:
 
