@@ -5,23 +5,37 @@ Problem: The lack of clear performance indicators for tracking and analyzing key
 Solution: I designed a comprehensive set of KPIs using Power BI and PostgreSQL, providing actionable insights into:
 
 Employee Count
+
 Attrition Count
+
 Attrition Rate
+
 Active Employees
+
 Average Age
 
 🔍 Dive into the data with these eye-opening charts:
 
-1️⃣ Attrition by Gender
-2️⃣ Department-wise Attrition
-3️⃣ Number of Employees by Age Group
-4️⃣ Job Satisfaction Ratings
-5️⃣ Education Field-wise Attrition
-6️⃣ Attrition Rate by Gender for Different Age Groups
+1️. Attrition by Gender
+
+2. Department-wise Attrition
+
+3️. Number of Employees by Age Group
+
+4️. Job Satisfaction Ratings
+
+5️. Education Field-wise Attrition
+
+6️. Attrition Rate by Gender for Different Age Groups
 
 Steps Covered:
+
 Step 1: Data Extracting
+
 Step 2: Data Cleaning
+
 Step 3: Data Loading
+
 Step 4: Data Modelling
+
 Step 5: Data Visualization
